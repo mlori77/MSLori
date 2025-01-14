@@ -1,5 +1,5 @@
 ---
-title: "MSLori"
+title: "M. S. Lori"
 listing:
   contents: posts
   sort: "date desc"

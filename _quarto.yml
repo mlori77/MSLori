@@ -3,7 +3,7 @@ project:
   output-dir: docs
 
 website:
-  title: "MSLori" 
+  title: "AI for Scientific Projects" 
   navbar:
     right:
       - about.qmd
