@@ -1,6 +1,6 @@
 {
     "id": "DB890FA3",
-    "path": "E:/PHD/MSLori/_quarto.yml",
+    "path": "~/GitHub/MSLori/_quarto.yml",
     "project_path": "_quarto.yml",
     "type": "yaml",
     "hash": "0",
@@ -12,15 +12,15 @@
     "properties": {
         "source_window_id": "",
         "Source": "Source",
-        "cursorPosition": "7,10",
+        "cursorPosition": "12,33",
         "scrollLine": "0"
     },
     "folds": "",
-    "lastKnownWriteTime": 1736887704,
+    "lastKnownWriteTime": 1736888654,
     "encoding": "UTF-8",
     "collab_server": "",
     "source_window": "",
-    "last_content_update": 1736887704927,
+    "last_content_update": 1736888654,
     "read_only": false,
     "read_only_alternatives": []
 }
