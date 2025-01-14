@@ -1,8 +1,9 @@
 project:
   type: website
+  output-dir: docs
 
 website:
-  title: "MSLori"
+  title: "MSLori" 
   navbar:
     right:
       - about.qmd
