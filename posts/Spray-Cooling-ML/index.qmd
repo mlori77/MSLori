@@ -1,0 +1,13 @@
+---
+title: "Spray Cooling"
+author: "M S Lori"
+date: "2025-01-14"
+categories: [Paper]
+image: "mainimage.jpg"
+---
+
+This is a post with executable code.
+
+```{r}
+1 + 1
+```
